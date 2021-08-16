@@ -7,6 +7,8 @@ import org.jsoup.nodes.*;
 import javax.swing.*;
 import java.awt.*;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 
 public class NewFrontEnd {
 
