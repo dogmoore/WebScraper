@@ -14,7 +14,7 @@ public class NewFrontEnd {
     JButton b1, b2;
     JLabel l1, l2;
     public NewFrontEnd() {
-        JFrame f = new JFrame("WebScrap test v1.0-snap");
+        JFrame f = new JFrame("WebScrape test v1.0-snap");
         String image = "https://scrapingant.com/wp-content/uploads/elementor/thumbs/рпло-onkgmrkfymivnq1x256oik7rhfrj89ognxglwu2o00.png";
         try {
             Image icon = Toolkit.getDefaultToolkit().getImage(new URL(image));
